@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23670" started-at="2019-03-11T21:19:42Z" finished-at="2019-03-11T21:20:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23670" started-at="2019-03-11T21:19:42Z" finished-at="2019-03-11T21:20:06Z">
+      <class name="test.AutoSearchTest">
+        <test-method status="PASS" signature="prepTest()[pri:0, instance:test.AutoSearchTest@7d9d1a19]" name="prepTest" is-config="true" duration-ms="13126" started-at="2019-03-11T21:19:42Z" finished-at="2019-03-11T21:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepTest -->
+        <test-method status="PASS" signature="autoSearchTestExec()[pri:0, instance:test.AutoSearchTest@7d9d1a19]" name="autoSearchTestExec" duration-ms="3509" started-at="2019-03-11T21:19:56Z" finished-at="2019-03-11T21:19:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoSearchTestExec -->
+        <test-method status="PASS" signature="getYearAssert()[pri:0, instance:test.AutoSearchTest@7d9d1a19]" name="getYearAssert" duration-ms="4868" started-at="2019-03-11T21:19:59Z" finished-at="2019-03-11T21:20:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getYearAssert -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:test.AutoSearchTest@7d9d1a19]" name="endTest" is-config="true" duration-ms="2126" started-at="2019-03-11T21:20:04Z" finished-at="2019-03-11T21:20:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- test.AutoSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
